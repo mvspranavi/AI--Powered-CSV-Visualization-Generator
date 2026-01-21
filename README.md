@@ -1,6 +1,6 @@
-# 📊 TalkWithData: AI-Powered CSV Visualization Generator
+# 📊 AI-Powered CSV Visualization Generator
 
-**TalkWithData** makes data analysis effortless. Simply upload a CSV file and receive smart, context-aware visualizations — complete with the Python code that generated them. No coding required. No setup hassles. Just insights, instantly.
+This makes data analysis effortless. Simply upload a CSV file and receive smart, context-aware visualizations — complete with the Python code that generated them. No coding required. No setup hassles. Just insights, instantly.
 
 ---
 
@@ -75,23 +75,3 @@ npm start
 ```
 
 Make sure your Flask server is running at `http://localhost:5000`.
-
----
-
-## Project Structure (Optional)
-
-```
-talkwithdata/
-├── backend/
-│   └── app.py
-├── frontend/
-│   ├── app.jsx
-│   ├── index.js
-│   └── ...
-```
-
----
-
-## License
-
-This project is open-source under the [MIT License](LICENSE).
